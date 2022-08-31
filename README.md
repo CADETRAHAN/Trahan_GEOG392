@@ -4,7 +4,7 @@
 
 | **Week** | **Readings** | **Monday** | **Wednesday** | **Friday** | **Homework** | **Lab** |   
 | --- | --- | --- | --- | --- | --- | --- |   
-| 1           | - |  | Introduction to the Class <br/> (Form the Project Group) | Development Enviornment Set Up | [Lecture Quiz 1](https://github.com/CADETRAHAN/Trahan_GEOG392/blob/main/homework/quiz01/README.md) | [Lab 1](https://github.com/CADETRAHAN/Trahan_GEOG392/blob/main/lab/lab01/README.md) |   
+| 1           | - | - | Introduction to the Class <br/> (Form the Project Group) | Development Enviornment Set Up | [Lecture Quiz 1](https://github.com/CADETRAHAN/Trahan_GEOG392/blob/main/homework/quiz01/README.md) | [Lab 1](https://github.com/CADETRAHAN/Trahan_GEOG392/blob/main/lab/lab01/README.md) |   
 | 2           | [Variables](http://www.letslearnpython.com/learn/lesson/5/step/1/) | Variables | Containers, Loops, Condition Statements | Built-in Functions & Python Functions | [Lecture Quiz 2](https://github.com/CADETRAHAN/Trahan_GEOG392/blob/main/homework/quiz02/README.md) | - |   
 | 3      | [Loops](http://www.letslearnpython.com/learn/lesson/10/step/1/)<br/> [Dive Into Python Chapter 11](https://diveintopython3.net/files.html)<br/> | Labor Day<br/> No Class | Conference Trip<br/> No Class | Conference Trip<br/> No Class | - | [Lab 2](https://github.com/CADETRAHAN/Trahan_GEOG392/blob/main/lab/lab02/README.md)  |
 | 4      | - | File IO | Project Proposal | Project Proposal | [Lecture Quiz 3](https://github.com/CADETRAHAN/Trahan_GEOG392/blob/main/homework/quiz03/README.md) | [Lab 3](https://github.com/CADETRAHAN/Trahan_GEOG392/blob/main/lab/lab03/README.md) |
