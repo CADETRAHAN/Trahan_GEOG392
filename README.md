@@ -3,7 +3,7 @@
 #### Course Schedule
 
 | **Week** | **Readings** | **Monday** | **Wednesday** | **Friday** | **Lab** |   
-| --- | --- | --- | --- | --- | --- | --- |   
+| --- | --- | --- | --- | --- | --- |   
 | 1           | - | - | Introduction to the Class <br/> (Form the Project Group) | Development Enviornment Set Up |  [Lab 1](https://github.com/CADETRAHAN/Trahan_GEOG392/blob/main/lab/lab01/README.md) |   
 | 2           | [Variables](http://www.letslearnpython.com/learn/lesson/5/step/1/) | Variables | Containers, Loops, Condition Statements | Built-in Functions & Python Functions | - |   
 | 3      | [Loops](http://www.letslearnpython.com/learn/lesson/10/step/1/)<br/> [Dive Into Python Chapter 11](https://diveintopython3.net/files.html)<br/> | Labor Day<br/> No Class | Conference Trip<br/> No Class | Conference Trip<br/> No Class |[Lab 2](https://github.com/CADETRAHAN/Trahan_GEOG392/blob/main/lab/lab02/README.md)  |
