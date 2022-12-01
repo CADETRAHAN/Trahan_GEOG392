@@ -9,9 +9,8 @@ def read_file(file):
     file.close
     
     for line in lines:
-        components = line.strip().split()
+        components = line.split(",")
         Shape = components[0]
-        print = Shape
 
 
 #class Circle(Shape):
